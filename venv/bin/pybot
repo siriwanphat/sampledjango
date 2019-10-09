@@ -1,0 +1,6 @@
+#!/home/oeng/Desktop/jen/sampledjango/venv/bin/python3
+
+import sys
+from robot import run_cli
+
+run_cli(sys.argv[1:])

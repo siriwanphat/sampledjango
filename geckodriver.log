@@ -1,0 +1,41 @@
+1570611569626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile05zqvR"
+
+(firefox:15493): Gtk-WARNING **: 15:59:30.087: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1570611572415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570611572417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570611572418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570611572419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15608): Gtk-WARNING **: 15:59:34.489: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15640): Gtk-WARNING **: 15:59:35.158: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15686): Gtk-WARNING **: 15:59:38.311: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1570611578926	Marionette	INFO	Listening on port 34755
+1570611578989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570611579424	Marionette	INFO	Stopped listening on port 34755
+1570612077157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBciHkS"
+
+(firefox:17462): Gtk-WARNING **: 16:07:58.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1570612084639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570612084641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570612084642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570612084643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:17584): Gtk-WARNING **: 16:08:09.179: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17610): Gtk-WARNING **: 16:08:10.158: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17656): Gtk-WARNING **: 16:08:14.434: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1570612094485	Marionette	INFO	Listening on port 34457
+1570612094576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570612095638	Marionette	INFO	Stopped listening on port 34457
